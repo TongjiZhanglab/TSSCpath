@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # TSSCpath Overview
 TSSCpath is a python script (python 3) for cell trajectory construction by using k-nearest neighbors graph algorithm. It aims at time-series single-cell RNA-seq data. It is a developmental version.
 
@@ -69,8 +68,3 @@ celltype = tsscpath.cell_clusters(data, pca_n=100, k=20)
 
 
 
-
-=======
-# TSSCpath
-TSSCpath constructs cell trajectory on time-series single-cell RNA-seq
->>>>>>> github/master
